@@ -31,6 +31,11 @@ For Using pre-trained model :
 python model.py 
 ```
 
+## Results:
+![](Results/Autoencoder/img_0.png)  
+![](Results/Autoencoder/res2.jpg)
+
+
 ## Model Architecture: 
 - This autoencoder model is based on a research paper mentioned in the references. We just tried writing code for this paper.
 
